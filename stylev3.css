@@ -1,0 +1,65 @@
+body {
+background:
+linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+background-color: #131313;
+background-size: 20px 20px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#pierwszy {
+	background-image: url("../images/top.jpg");
+	width:800px;
+	height:280px;
+	margin:auto;
+    border-radius: 25px;   
+}
+#logowanie {
+	color:white;
+	padding-left: 25px;
+	padding-top: 25px;
+}
+
+#artykul {
+	width:800px;
+	height:600px;
+	margin:auto;
+	border-radius:25px;
+	background-color: black;
+	color:white;
+	padding-left:10px;
+	padding-right: 10px;
+}
+h1 {
+	font-size: 23px;
+	color:white;
+	text-align:center;
+}
+#stopka {
+	width:800px;
+	height:200px;
+	margin:auto;
+	border-radius:25px;
+	background-color: white;
+	padding-left:10px;
+	padding-right: 10px;
+	text-align:center;
+}
+a{
+	color:green;
+}
+
+.fa-child {
+	color:green;
+}
+#srodek {
+	text-align: center;
+}
